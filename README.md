@@ -1,1 +1,0 @@
-# theakashpatelworld.github.io
