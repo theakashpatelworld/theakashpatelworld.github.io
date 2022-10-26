@@ -35,7 +35,7 @@ document
 .addEventListener("keyup", function (event) {
 if (event.key == "Enter") weather.search();
 });
-weather.fetchWeather("Greater Noida");
+weather.fetchWeather("Sundargarh");
 function getweather(data){
 const { name } = data;
 const { description, icon } = data.weather[0];
